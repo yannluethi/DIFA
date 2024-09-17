@@ -1,4 +1,4 @@
 # DIFA
 Git Repository for DIFA - MSc Business Information Systems FS24
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/user-attachments/assets/d0cc2cf1-1acf-4c9b-bdd7-837ee0c2e735)
+![image](https://github.com/user-attachments/assets/7db88286-3740-4f15-82cf-5c327f39562c)
